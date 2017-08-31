@@ -1,0 +1,2 @@
+# carbon-elastalert
+elastalert build
